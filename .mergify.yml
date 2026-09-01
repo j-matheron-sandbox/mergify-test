@@ -1,0 +1,8 @@
+queue_rules:
+  - name: test
+    merge_method: merge
+    update_method: rebase
+    merge_conditions:
+      - check-success = test
+    queue_conditions:
+      - check-success = test
