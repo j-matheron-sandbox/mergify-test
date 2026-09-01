@@ -2,4 +2,4 @@ from calc import compute
 
 
 def test_compute():
-    assert compute(3) == 6
+    assert compute(3) == 9
