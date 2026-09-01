@@ -1,2 +1,2 @@
-def compute(x):
+def calculate(x):
     return x * 2
