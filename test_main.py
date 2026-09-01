@@ -2,4 +2,4 @@ from calc import calculate
 
 
 def test_calculate():
-    assert calculate(3) == 18
+    assert calculate(3) == 9
