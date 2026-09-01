@@ -4,5 +4,6 @@ queue_rules:
     update_method: rebase
     merge_conditions:
       - check-success = test
+      - "#commits-behind = 0"
     queue_conditions:
       - check-success = test
