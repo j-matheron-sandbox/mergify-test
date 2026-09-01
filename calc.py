@@ -1,2 +1,2 @@
 def compute(x):
-    return x * 2
+    return x * 5
