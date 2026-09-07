@@ -1,2 +1,2 @@
 def calculate(x):
-    return x * 6
+    return x * 3
