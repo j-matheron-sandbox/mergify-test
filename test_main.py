@@ -1,5 +1,5 @@
-from calc import compute
+from calc import calculate
 
 
-def test_compute():
-    assert compute(3) == 6
+def test_calculate():
+    assert calculate(3) == 6

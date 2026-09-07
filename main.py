@@ -1,3 +1,3 @@
-from calc import compute
+from calc import calculate
 
-print(compute(5))
+print(calculate(5))
