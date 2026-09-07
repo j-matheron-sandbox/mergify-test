@@ -1,2 +1,2 @@
 def calculate(x):
-    return x * 8
+    return x * 7
